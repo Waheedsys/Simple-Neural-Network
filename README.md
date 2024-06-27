@@ -23,7 +23,7 @@ This project implements a simple neural network for classifying handwritten digi
 Clone the repository:
 
 ```bash
-  git clone https://github.com/yourusername/mnist-numpy-neural-network.git
+  git clone https://github.com/yourusername/Simple-Neural-Network.git
   cd mnist-numpy-neural-network
 ```
 
