@@ -35,7 +35,7 @@ pip install numpy
 ```
 Download the MNIST dataset:
 ```bash
-You can download the dataset from https://www.kaggle.com/datasets/hojjatk/mnist-dataset or use the provided script.
+You can download the dataset from [MNIST](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) or use the provided script.
 ```
 ## Training the Neural Network
 
